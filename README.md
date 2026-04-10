@@ -59,4 +59,7 @@
     <p align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iagoscandido&theme=dracula&layout=compact&hide_border=true&custom_title=Minhas+Estatísticas+no+Wakatime+(Últimos+7+Dias)" alt="Estatísticas do Wakatime"/>
     </p>
+      <p>
+          <!--START_SECTION:waka--><!--END_SECTION:waka-->
+      </p>
   </div>
