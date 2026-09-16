@@ -1,7 +1,5 @@
 <div align="center">    
     <h1>Olá, eu sou iagoscandido</h1>
-  </div>
-  
   <div align="center"> 
     <h3>Como me encontrar:</h3>
     <p>
