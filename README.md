@@ -1,8 +1,5 @@
 <div align="center">    
     <h1>Olá, eu sou iagoscandido</h1>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagoscandido&layout=compact&langs_count=7&theme=dracula"/">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoscandido&layout=compact&langs_count=7&theme=dracula"/>
-
   </div>
   
   <div align="center"> 
