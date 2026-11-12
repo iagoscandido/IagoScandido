@@ -13,5 +13,5 @@ Tenho experiência prática com Java, Python, Node SQL, Node, Tailwindcss
 - [Plataforma de monitoramento de transito do Estado do Rio de Janeiro](https://sis-waze-refact.vercel.app/dashboard)
 
 ## No que estou trabalhando
-
+- [Sem Prévia] Plataforma de Conexão entre alunos do curso de ciência da computação da Universidade Estácio de Sá
 - [Sem Prévia] Painel de gerenciamento de atendimentos para Técnicos de Informática 
